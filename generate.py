@@ -13,7 +13,7 @@ import urllib.request
 import urllib.error
 from pathlib import Path
 
-LEAGUE_ID = 854
+LEAGUE_ID = 42303
 FPL_BASE = "https://fantasy.premierleague.com/api"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
